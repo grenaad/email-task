@@ -20,3 +20,4 @@ We need to send them an email that elicits their requirements. We need to balanc
 
 Write up a short email to do the above. The email does not need to be lengthy (less than a page), it should be accessible to them, useful to us, and should show awareness of the engagement’s larger commercial and political aspects. The details outlined above are fairly thin on the ground, so just make any assumptions you need and document them for us. The goal here is just to see an example of your written communication skills. Written communication is a critical part of the position, and we have found it to be a good general indicator of someone's technical understanding.
 
+PS: you're welcome to clone the repo, but don't fork it please.
